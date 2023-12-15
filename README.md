@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @MaSch882; Matthias Schulte.
+- 👋 Hi, I’m @MaSch882.
+  - My name is Matthias Schulte.
+  - I'm working as a consultant and Java developer adesso insurance solutions, focussing on private health insurance.
+  - In 2021, I graduated from the TU Dortmund University with a Master of Science degree in mathematics.
+  - My website can be found on my github-profile.
 - 👀 Interests:
   - Backend Developing
   - Mathematical Programming
