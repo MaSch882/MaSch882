@@ -6,7 +6,7 @@
 - 👀 Interests:
   - Backend Developing
   - Mathematical Programming
-  - Data Structures and Algorithms
+  - Data Structures and algorithms
 - 🌱 Languages:
   - I’m currently learning F#
   - Java
