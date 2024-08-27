@@ -8,6 +8,6 @@
   - Mathematical Programming
   - Data Structures and algorithms
 - 🌱 Languages:
-  - I’m currently learning F#
+  - I currently want to learn C#.
   - Java
   - Python 3
