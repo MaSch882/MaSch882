@@ -11,4 +11,3 @@
   - I currently look into PHP.
   - Java
   - Python 3
-  - https://exercism.org/profiles/MaSch882
